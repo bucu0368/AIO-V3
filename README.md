@@ -33,8 +33,8 @@
 - Open the terminal and run the following commands
 
 ```
-git clone https://github.com/friday2su/discord-js-bot.git
-cd discord-js-bot
+git clone https://github.com/bucu0368/AIO-V3.git
+cd AIO-V2
 npm install
 ```
 
@@ -144,5 +144,5 @@ If you need any additional help, make sure to read our guides [here](docs/additi
 <h1 align="center"> 🤝 Contributing 🤝 </h1>
 
 - Special thanks to [@saiteja-madha](https://github.com/saiteja-madha/) the owner of this code.
-- Feel free to [Fork](https://github.com/friday2su/All-In-One-Bot/fork) this repository, create a feature branch and submit a pull request
-- You can keep track of all the planned features [here](https://github.com/friday2su/All-In-One-Bot/projects) or make a request for one at our discord
+- Feel free to [Fork](https://github.com/bucu0368/AIO-V3/fork) this repository, create a feature branch and submit a pull request
+- You can keep track of all the planned features [here](https://github.com/bucu0368/AIO-V3/projects) or make a request for one at our discord
